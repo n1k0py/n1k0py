@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @justn1k0
+- 🌍 I'm from Georgia 🇬🇪
 - 👀 I’m interested in Discord Bot Programming 
 - 🌱 I’m currently learning Python
 - 📫 How to reach me in Discord, just_n1k0_
